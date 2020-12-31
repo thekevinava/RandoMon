@@ -1,0 +1,28 @@
+{
+  "name": "randomon",
+  "version": "1.0.0",
+  "description": "Generates random images of Pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekevinava/RandoMon.git"
+  },
+  "keywords": [
+    "discord",
+    "pokemon",
+    "random",
+    "node",
+    "random-pokemon",
+    "generator",
+    "images"
+  ],
+  "author": "Kevinava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thekevinava/RandoMon/issues"
+  },
+  "homepage": "https://github.com/thekevinava/RandoMon#readme"
+}
