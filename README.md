@@ -14,7 +14,7 @@ The principal function for this package is handle all URLs sended by users on a 
 - [Installation](#installation)
 - [Examples](#examples)
     - [Basic Use](#basic-use)
-- [License](#license)
+- [License & Credits](#license)
 
 # Support
 
@@ -53,7 +53,7 @@ client.login('TOKEN_HERE');
 
 # License & Credits
 
-Made with [@aonsager](https://github.com/aonsager) website. (Web)[https://pokemon.alexonsager.net/]
+Made with [@aonsager](https://github.com/aonsager) website. [Web](https://pokemon.alexonsager.net/)
 
 MIT
 
