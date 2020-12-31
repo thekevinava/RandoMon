@@ -2,8 +2,8 @@
 <p>
     <a href="https://www.npmjs.com/package/randomon"><img alt="NPM Version" src="https://img.shields.io/npm/v/randomon"></a>
     <a href="https://github.com/thekevinava/RandoMon/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/thekevinava/RandoMon"></a>
-    <a href="https://www.npmjs.com/package/randomon"><img alt="NPM License" src="https://img.shields.io/npm/l/randomon"></a>
-    <a href="https://www.npmjs.com/package/randomon"><img alt="NPM Downloads" src="https://img.shields.io/npm/dt/randomon"></a>
+    <a href="https://www.npmjs.com/package/randomon"><img alt="NPM" src="https://img.shields.io/npm/l/randomon"></a>
+    <a href="https://www.npmjs.com/package/randomon"><img alt="npm" src="https://img.shields.io/npm/dt/randomon"></a>
     <a href="https://discord.gg/gAFRJpasj5"><img alt="Discord" src="https://img.shields.io/discord/791333925968412703?color=%237289DA&label=Discord&logo=discord"></a>
     <a href="https://www.npmjs.com/package/randomon">NPM</a>
 </p>
