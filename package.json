@@ -1,6 +1,6 @@
 {
   "name": "randomon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generates random images of Pokemon",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "bugs": {
     "url": "https://github.com/thekevinava/RandoMon/issues"
   },
-  "homepage": "https://github.com/thekevinava/RandoMon#readme",
+  "homepage": "https://randomon.kevinava.com",
   "dependencies": { }
 }

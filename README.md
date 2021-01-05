@@ -5,6 +5,7 @@
     <a href="https://www.npmjs.com/package/randomon"><img alt="NPM" src="https://img.shields.io/npm/l/randomon"></a>
     <a href="https://www.npmjs.com/package/randomon"><img alt="npm" src="https://img.shields.io/npm/dt/randomon"></a>
     <a href="https://discord.gg/gAFRJpasj5"><img alt="Discord" src="https://img.shields.io/discord/791333925968412703?color=%237289DA&label=Discord&logo=discord"></a>
+    <a href="https://randomon.kevinava.com"><img alt="GitBook" src="https://img.shields.io/badge/Click-GitBook-green"></a>
     <a href="https://www.npmjs.com/package/randomon">NPM</a>
 </p>
 
@@ -18,6 +19,7 @@ The principal function for this package is handle all URLs sended by users on a 
 
 # Support
 
+[GitBook Page](https://randomon.kevinava.com)
 You can contact us on your [Discord server](https://discord.gg/gAFRJpasj5)
 
 # Installation
